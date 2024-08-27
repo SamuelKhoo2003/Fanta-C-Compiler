@@ -1,0 +1,10 @@
+bin/
+__pycache__/
+
+*.o
+/*.s
+/a.out
+src/lexer.yy.cpp
+src/parser.tab.cpp
+src/parser.tab.hpp
+src/parser.output
