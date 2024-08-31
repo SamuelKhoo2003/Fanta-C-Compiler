@@ -56,7 +56,7 @@ The **Fanta-C-Compiler** is a full-featured C-Compiler developed as part of my Y
 
   1. Clone the repository:
      ```bash
-     git clone https://github.com/yourusername/fanta-c-compiler.git
+     git clone https://github.com/SamuelKhoo2003/fanta-c-compiler.git
      ```
   2. Navigate to the project directory:
      ```bash
